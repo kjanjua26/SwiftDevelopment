@@ -5,12 +5,14 @@
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "9AF376313FECB786473D6C2D661EBC631112325E" : 9223372036854775807,
-    "4CBE491804DFC403D339A55DBA09E732D2E1AE66" : 9223372036854775807
+    "4CBE491804DFC403D339A55DBA09E732D2E1AE66" : 9223372036854775807,
+    "6BFCF74FA143BC24EA42D3C63387CA25A32C7CB6" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "46135CD7-CD8E-46C1-896C-7D3EA2C52E29",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "9AF376313FECB786473D6C2D661EBC631112325E" : "..",
-    "4CBE491804DFC403D339A55DBA09E732D2E1AE66" : "rajaKamranToe\/"
+    "4CBE491804DFC403D339A55DBA09E732D2E1AE66" : "rajaKamranToe\/",
+    "6BFCF74FA143BC24EA42D3C63387CA25A32C7CB6" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "rajaKamranToe",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -20,6 +22,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kjanjua26\/IOSGames",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4CBE491804DFC403D339A55DBA09E732D2E1AE66"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kjanjua26\/SwiftDevelopment.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6BFCF74FA143BC24EA42D3C63387CA25A32C7CB6"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kjanjua26\/IOS-Games",
